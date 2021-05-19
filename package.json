@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Module 10 of Coding Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricklago21/jest-another-RPG.git"
+  },
+  "author": "Patrick Lago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patricklago21/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/patricklago21/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
